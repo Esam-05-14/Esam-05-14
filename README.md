@@ -1,6 +1,6 @@
 # Hi there, I'm Esam Abduljalil AL-SHAMERI 👋
 
-### Computer Science Student | Full-Stack & Cloud-Native Developer
+### Computer Science Student | Full-Stack Developer
 
 I am a Computer Science student with a strong focus on engineering scalable backend architectures, modern frontends, and automated deployment workflows. I bridge the gap between academic theory and industry-grade application development.
 
