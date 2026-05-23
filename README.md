@@ -22,6 +22,11 @@ I am a Computer Science student with a strong focus on engineering scalable back
 - **Tech Stack:** React, Tailwind CSS
 - **Impact:** Engineered the system architecture to confidently scale to over **1,000 concurrent users**, successfully managing and serving an active base of **200+ individuals**.
 
+### 🏙️ Simiutopia (2.5D Desktop Game)
+*An isometric city-building and transport logistics simulator.*
+- **Tech Stack:** Java 21, LibGDX, Gradle, JUnit 5
+- **Highlights:** Engineered a custom isometric rendering engine and A* pathfinding for autonomous vehicles. Designed a robust JSON serialization system to perfectly persist complex game states, including procedural map seeds, dynamic economies, and active transit routes.
+
 ### 🐳 Cloud-Native Full-Stack Stock Engine
 *A robust simulation engine for market tracking.*
 - **Tech Stack:** Java, Spring Boot, Docker, GitHub Actions
