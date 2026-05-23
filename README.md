@@ -27,13 +27,6 @@ I am a Computer Science student with a strong focus on engineering scalable back
 - **Tech Stack:** Java, Spring Boot, Docker, GitHub Actions
 - **Impact:** Implemented full containerization and automated testing/deployment pipelines to ensure zero-downtime updates and consistent state management across different environments. 
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium" alt="GitHub Streak" />
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
