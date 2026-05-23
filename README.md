@@ -1,13 +1,39 @@
-# Hi 👋, I'm Esam Al-Shameri
+# Hi there, I'm Esam Abduljalil AL-SHAMERI 👋
 
-### A full stack developer
+### Computer Science Student | Full-Stack & Cloud-Native Developer
 
+I am a Computer Science student with a strong focus on engineering scalable backend architectures, modern frontends, and automated deployment workflows. I bridge the gap between academic theory and industry-grade application development.
 
-- 🔭 I'm currently working on **Full Stack Application**
+## 🚀 About Me
+- 🎓 Pursuing a BSc in Computer Science (Expected Graduation: July 2027)
+- 💻 Building comprehensive full-stack solutions and exploring AI/ML data processing
+- ⚙️ Passionate about DevOps, containerization, and establishing efficient CI/CD pipelines
 
-- 🌱 I'm currently learning **Laravel, Django, and Spring boot**
+## 🛠️ Tech Stack & Tools
+**Frontend:** React.js | Tailwind CSS | HTML/CSS/JavaScript  
+**Backend:** Java | Spring Boot | Laravel  
+**DevOps & Architecture:** Docker | GitHub Actions | CI/CD | Microservices  
+**Core Fields:** Data Structures & Algorithms | AI/ML Fundamentals
 
-- 📫 How to reach me **esamstudy23@gmail.com**
+## 📈 Featured Projects
+
+### 🌐 Scalable Collaboration Platform (GUYSH)
+*A responsive web platform designed for team coordination and technical project management.*
+- **Tech Stack:** React, Tailwind CSS
+- **Impact:** Engineered the system architecture to confidently scale to over **1,000 concurrent users**, successfully managing and serving an active base of **200+ individuals**.
+
+### 🐳 Cloud-Native Full-Stack Stock Engine
+*A robust simulation engine for market tracking.*
+- **Tech Stack:** Java, Spring Boot, Docker, GitHub Actions
+- **Impact:** Implemented full containerization and automated testing/deployment pipelines to ensure zero-downtime updates and consistent state management across different environments. 
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium" alt="GitHub Streak" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
